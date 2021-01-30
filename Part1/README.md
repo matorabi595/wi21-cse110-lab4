@@ -49,4 +49,4 @@ true == 2
 true === Boolean(2)
 
 
-16. Explain the difference between the == and === operators.
+16. === is identity operator and == is equality operator. 
