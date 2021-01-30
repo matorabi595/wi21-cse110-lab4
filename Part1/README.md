@@ -14,3 +14,17 @@
 
   * The result of this code will be 50, 100, 150, because the discount (.5) divided by each element of the array. 100/.5 = 50
   200/.5 = 100 and 300/.5 = 150.
+
+
+
+
+
+
+
+
+13. 
+  * Sarah
+  * 2022
+  * Hello
+  * Thomas Powell CSE 110
+  * CSE110
