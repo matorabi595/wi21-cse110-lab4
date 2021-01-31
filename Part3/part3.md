@@ -19,7 +19,7 @@ How would you fix it?
 
 4. How long did it take to download?
 
-    Answer: 75 ms						
+    Answer: 2.17s						
    
 5. What was your User-Agent for the browser that made the request?
 
