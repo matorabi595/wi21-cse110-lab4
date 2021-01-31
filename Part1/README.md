@@ -63,7 +63,12 @@ true
 
 17. How are you?
 
-18. pro
+18. The output of my code is: 
+
+ 21
+ 45
+ 5
+ 2
 
 19. 
 
