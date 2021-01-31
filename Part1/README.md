@@ -4,23 +4,34 @@
 
 2. What will happen at line 12 and why?
 
-  * prints the saving amount. price[1] * (1-0.5) =  300 * (1-0.5) = 115. 
+  * prints the saving amount. price[1] * (1-0.5) =  300 * (1-0.5) = 150. 
 
 3. What will happen at line 13 and why?
 
-  * The result will remain as 115. ??
+  * The result will remain as 150. we should pass the function discountedprice after return line to get the 150 result. 
 
 4. What will the function return if we call discountPrices([100, 200, 300], .5) ? Give a brief explanation.
 
   * The result of this code will be 50, 100, 150, because the discount (.5) divided by each element of the array. 100/.5 = 50
   200/.5 = 100 and 300/.5 = 150.
 
-5.
+5. It will be 3
 
 
+6. It doesn't work because of the let. let can be used inside the loop. 
 
 
+7. It doesn't work because of the let. let can be used inside the loop.
 
+8. It doesn't work because of the let. let can be used inside the loop.
+
+9. const doesn't work because it is constact. cont can not be reassigned, so there's nothing will be terminanted. 
+
+10. const doesn't work because it is constact. cont can not be reassigned, so there's nothing will be terminanted.
+
+11. const doesn't work because it is constact. cont can not be reassigned, so there's nothing will be terminanted.
+
+12. There an error exists, because of the cost data type. 
 
 13. 
   * Sarah
@@ -30,23 +41,26 @@
   * CSE110
   
 14. Arithmetic
-* 5
+* 32
 * 1
-* null
-* 3 null
 * 3
-* false
-* undefined
-* undefined
+* 3null
+* 4 (true is consider as 1)
+* 0
+* 3undefined
+* NaN
 
 
 15. Comparison
-‘2’ > 1 
-‘2’ < ‘12’
-2 == ‘2’
-2 === ‘2’
-true == 2
-true === Boolean(2)
-
+true 
+false
+true
+false
+false
+true
 
 16. === is identity operator and == is equality operator. 
+
+17. How are you?
+
+18. 
