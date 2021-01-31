@@ -1,27 +1,31 @@
 1. What will happen at line 11 and why?
 
-  * prints i which i is the total number of the array. after passing discount price the i will be equal to 3.
+  Answer: It should print i value which is the total number of the array. If we do not pass discountPrices([100, 200, 300], .5), nothing will be executed and the code doesn't have an error. after passing discountPrices([100, 200, 300], .5), the i will be equal to 3.
 
 2. What will happen at line 12 and why?
 
-  * prints the saving amount. price[1] * (1-0.5) =  300 * (1-0.5) = 150. 
+  Answer: It will not execute anything for discountedPrice if you don't pass discountPrices([100, 200, 300], .5)  and the code doesn't have any error. It will prints the saving amount if we pass the  discountPrices([100, 200, 300], .5). price[1] * (1-0.5) =  300 * (1-0.5) = 150. 
 
 3. What will happen at line 13 and why?
 
-  * The result will remain as 150. we should pass the function discountedprice after return line to get the 150 result. 
+  Answer: There will not anything will be executed if we don't pass discountPrices([100, 200, 300], .5). we should pass the function discountedprice after return line to get the 150 for the finalPrice. 
 
 4. What will the function return if we call discountPrices([100, 200, 300], .5) ? Give a brief explanation.
 
-  * The result of this code will be 50, 100, 150, because the discount (.5) divided by each element of the array. 100/.5 = 50
-  200/.5 = 100 and 300/.5 = 150.
+  Answer: The result of this code will be 3, 150, 150. the value of the i will be 3, the value of the discounted price is 150 and lastly the value of the finalPrice is also 150.
 
-5. It will be 3
+5. What will happen at line 11 and why?
+
+  Answer: The code doens't execute anything because i is declared as "let" and it will cause an error. 
+
+6. What will happen at line 12 and why?
+
+ Answer: The discountedPrice declared with "let". The code will cause an error. 
 
 
-6. It doesn't work because of the let. let can be used inside the loop. 
+7. What will happen at line 13 and why?
 
-
-7. It doesn't work because of the let. let can be used inside the loop.
+ Answer: If we call teh discountPrices([100, 200, 300], .5) after the last {, after return, the code will not cause an error and it will print 150. 
 
 8. It doesn't work because of the let. let can be used inside the loop.
 
